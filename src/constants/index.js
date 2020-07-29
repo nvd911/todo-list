@@ -1,0 +1,10 @@
+export const ADD_TASKS = "ADD_TASKS";
+export const ON_TOGGLE_FORM = "ON_TOGGLE_FORM";
+export const ON_OPEN_FORM = "ON_OPEN_FORM";
+export const ON_CLOSE_FORM = "ON_CLOSE_FORM";
+export const ON_UPDATE_STATUS = "ON_UPDATE_STATUS";
+export const ON_DELETE = "ON_DELETE";
+export const ON_UPDATE_ITEM = "ON_UPDATE_ITEM";
+export const FILTER_TABLE = "FILTER_TABLE";
+export const SEARCH = "SEARCH";
+export const SORT = "SORT";
